@@ -22,7 +22,7 @@
 
 ## 1. Tổng quan về dịch vụ xử lý khí thải trọn gói
 
-Trong bối cảnh các quy định về môi trường ngày càng siết chặt, việc đầu tư hệ thống xử lý khí thải không chỉ là yêu cầu bắt buộc mà còn là giải pháp giúp doanh nghiệp phát triển bền vững. Dịch vụ xử lý khí thải trọn gói ra đời nhằm mang đến một giải pháp đồng bộ, hiệu quả và tối ưu cho doanh nghiệp trong quá trình kiểm soát ô nhiễm không khí.
+Trong bối cảnh các quy định về môi trường ngày càng siết chặt, việc đầu tư hệ thống xử lý khí thải đạt chuẩn không chỉ là yêu cầu bắt buộc mà còn là giải pháp giúp doanh nghiệp phát triển bền vững. Dịch vụ xử lý khí thải trọn gói ra đời nhằm mang đến một giải pháp đồng bộ, hiệu quả và tối ưu cho doanh nghiệp trong quá trình kiểm soát ô nhiễm không khí.
 
 ### 1.1. Xử lý khí thải trọn gói là gì?
 
