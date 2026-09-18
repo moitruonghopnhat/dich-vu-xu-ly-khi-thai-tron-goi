@@ -72,8 +72,6 @@ Từ bản thiết kế chi tiết, quá trình thi công được triển khai 
 
 Sau khi hoàn thiện lắp đặt, hệ thống được đưa vào vận hành thử nghiệm để hiệu chỉnh các thông số trước khi bàn giao chính thức. Doanh nghiệp được hướng dẫn vận hành chi tiết, bàn giao đầy đủ tài liệu kỹ thuật và đào tạo nhân sự trực tiếp quản lý hệ thống. Bên cạnh đó, Hợp Nhất tiếp tục đồng hành với dịch vụ hỗ trợ kỹ thuật sau thi công, đảm bảo hệ thống luôn hoạt động ổn định và đạt hiệu quả tối ưu.
 
-<p align="center"><em>Hệ thống xử lý khí thải tại một nhà máy</em></p>
-
 <a id="quy-trinh"></a>
 
 ## 3. Quy trình triển khai xử lý khí thải trọn gói tại Hợp Nhất
